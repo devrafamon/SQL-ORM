@@ -95,7 +95,7 @@ O projeto demonstra como aplicações de software utilizam um banco de dados par
 Este projeto foi desenvolvido utilizando:
 
 * **SQL**
-* **Banco de dados relacional PostgreSQL**
+* **Banco de dados relacional MySQL**
 * **Prisma ORM (Object Relational Mapping)**
 * **Git**
 * **GitHub**
