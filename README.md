@@ -15,7 +15,7 @@ Este repositório representa parte do processo de aprendizado em **modelagem de 
 
 # 📚 Sobre o Projeto
 
-Este projeto consiste no desenvolvimento de uma base para um **sistema de e-commerce**, focando principalmente na camada de **dados e persistência**.
+Este projeto consiste no desenvolvimento de uma base de dados para um **sistema de e-commerce**, focando principalmente na camada de **dados e persistência**.
 
 Durante o desenvolvimento foram trabalhados conceitos como:
 
@@ -36,24 +36,6 @@ O projeto foi desenvolvido com os seguintes objetivos de aprendizado:
 * praticar **SQL para manipulação de dados**
 * aplicar **ORM para mapear objetos da aplicação para tabelas do banco**
 * entender a modelagem de entidades comuns em sistemas de e-commerce
-
-Este tipo de atividade é comum em disciplinas de **Engenharia de Software**, onde projetos práticos são utilizados para aplicar conceitos estudados durante o curso. ([Leandro Murta][1])
-
----
-
-# ⚙️ Funcionalidades Implementadas
-
-O sistema modela elementos típicos de um e-commerce.
-
-Entre as funcionalidades e entidades trabalhadas estão:
-
-* cadastro de produtos
-* gerenciamento de clientes
-* registro de pedidos
-* relacionamento entre usuários, produtos e pedidos
-* persistência das informações em banco de dados
-
-Essas funcionalidades permitem simular o funcionamento básico de um **sistema de vendas online**.
 
 ---
 
